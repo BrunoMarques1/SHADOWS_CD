@@ -2,7 +2,7 @@ image:
   tag: dev-1b79bbc2
 
 env:
-  COLOR: YELLOW
+  COLOR: RED
 
 ingress:
   annotations:
