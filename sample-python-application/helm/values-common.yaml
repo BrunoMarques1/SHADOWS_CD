@@ -43,7 +43,7 @@ image:
   tag: dev-6c8e7c59
 
 spec:
-  replicas: 2
+  replicas: 3
   resources:
     requests:
       cpu: 0.5
