@@ -6,7 +6,7 @@ spec:
   type: NodePort
   ports:
   - port: 8000
-    nodePort: 30081
+    nodePort: 32081
   selector:
     app: api
 ---
