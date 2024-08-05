@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  MSG: MENSAGEM PASSADA PELO CONFIGMAP!!!!
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  name: mensagem
