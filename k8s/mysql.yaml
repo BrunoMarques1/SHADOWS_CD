@@ -7,7 +7,7 @@ spec:
   ports:
   - port: 3306
     targetPort: 3306
-    nodePort: 32000  # Escolha um número de NodePort entre 30000 e 32767
+    nodePort: 32080  # Escolha um número de NodePort entre 30000 e 32767
   selector:
     app: mysql
 ---
